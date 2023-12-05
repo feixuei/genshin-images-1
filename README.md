@@ -15,8 +15,8 @@
 
 # https://raw.githubusercontent.com/{{user}}/{{repo}}/{{branch}}/{{file_path}}
 
-# https://raw.githubusercontent.com/feixuei/genhsin-images/main/gs/safe/safe-gs-七七_刻晴_甘雨_荧-1.jpg
+# https://raw.githubusercontent.com/feixuei/genshin-images/main/gs/safe/safe-gs-七七_刻晴_甘雨_荧-1.jpg
 
 ```
 
-![七七_刻晴_甘雨_荧](https://raw.githubusercontent.com/feixuei/genhsin-images/main/gs/safe/safe-gs-七七_刻晴_甘雨_荧-1.jpg)
+![七七_刻晴_甘雨_荧](https://raw.githubusercontent.com/feixuei/genshin-images/main/gs/safe/safe-gs-七七_刻晴_甘雨_荧-1.jpg)
