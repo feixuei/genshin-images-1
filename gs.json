@@ -1,8 +1,8 @@
 {
     "game": "Genshin",
-    "totle_images_nums": 2106,
+    "totle_images_nums": 2107,
     "totle_tags_nums": 83,
-    "safe_nums": 1822,
+    "safe_nums": 1823,
     "sese_nums": 284,
     "tags": {
         "安柏": {
@@ -643,7 +643,7 @@
         },
         "七七": {
             "id": "1056",
-            "nums": 29,
+            "nums": 30,
             "images": {
                 "safe": [
                     "safe-gs-七七-1.jpg",
@@ -663,6 +663,7 @@
                     "safe-gs-七七-7.jpg",
                     "safe-gs-七七-8.jpg",
                     "safe-gs-七七-9.jpg",
+                    "safe-gs-七七_刻晴_甘雨_荧-1.jpg",
                     "safe-gs-七七_刻晴_荧-1.jpg",
                     "safe-gs-七七_瑶瑶-1.jpg",
                     "safe-gs-七七_瑶瑶-2.jpg",
@@ -733,9 +734,10 @@
         },
         "刻晴": {
             "id": "1058",
-            "nums": 104,
+            "nums": 105,
             "images": {
                 "safe": [
+                    "safe-gs-七七_刻晴_甘雨_荧-1.jpg",
                     "safe-gs-七七_刻晴_荧-1.jpg",
                     "safe-gs-刻晴-1.jpg",
                     "safe-gs-刻晴-10.jpg",
@@ -1014,9 +1016,10 @@
         },
         "甘雨": {
             "id": "1433",
-            "nums": 138,
+            "nums": 139,
             "images": {
                 "safe": [
+                    "safe-gs-七七_刻晴_甘雨_荧-1.jpg",
                     "safe-gs-七七_甘雨-1.jpg",
                     "safe-gs-刻晴_甘雨-1.jpg",
                     "safe-gs-刻晴_甘雨-2.jpg",
@@ -2229,9 +2232,10 @@
         },
         "荧": {
             "id": "4073",
-            "nums": 106,
+            "nums": 107,
             "images": {
                 "safe": [
+                    "safe-gs-七七_刻晴_甘雨_荧-1.jpg",
                     "safe-gs-七七_刻晴_荧-1.jpg",
                     "safe-gs-安柏_琴_甘雨_荧-1.jpg",
                     "safe-gs-安柏_荧-1.jpg",
