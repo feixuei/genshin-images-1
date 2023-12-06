@@ -1,9 +1,9 @@
 {
     "game": "Genshin",
-    "totle_images_nums": 2251,
-    "totle_tags_nums": 83,
-    "safe_nums": 1937,
-    "sese_nums": 314,
+    "totle_images_nums": 2280,
+    "totle_tags_nums": 85,
+    "safe_nums": 1961,
+    "sese_nums": 319,
     "tags": {
         "安柏": {
             "id": "54",
@@ -2232,7 +2232,7 @@
         },
         "荧": {
             "id": "4073",
-            "nums": 111,
+            "nums": 113,
             "images": {
                 "safe": [
                     "safe-gs-七七_刻晴_甘雨_荧-1.webp",
@@ -2301,6 +2301,7 @@
                     "safe-gs-荧-7.webp",
                     "safe-gs-荧-8.webp",
                     "safe-gs-荧-9.webp",
+                    "safe-gs-荧_夏洛蒂-1.webp",
                     "safe-gs-荧_派蒙-1.webp",
                     "safe-gs-荧_派蒙-2.webp",
                     "safe-gs-荧_派蒙-3.webp",
@@ -2308,6 +2309,7 @@
                     "safe-gs-荧_空_派蒙-1.webp",
                     "safe-gs-荧_空_派蒙-2.webp",
                     "safe-gs-荧_空_派蒙-3.webp",
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp",
                     "safe-gs-荧_纳西妲_派蒙-1.webp",
                     "safe-gs-荧_芙宁娜-1.webp",
                     "safe-gs-荧_芙宁娜-2.webp",
@@ -2353,7 +2355,7 @@
         },
         "空": {
             "id": "4074",
-            "nums": 13,
+            "nums": 14,
             "images": {
                 "safe": [
                     "safe-gs-温迪_迪卢克_魈_枫原万叶_空_流浪者_派蒙-1.webp",
@@ -2368,6 +2370,7 @@
                     "safe-gs-荧_空_派蒙-1.webp",
                     "safe-gs-荧_空_派蒙-2.webp",
                     "safe-gs-荧_空_派蒙-3.webp",
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp",
                     "safe-gs-达达利亚_荧_空_派蒙-1.webp"
                 ]
             }
@@ -2812,6 +2815,15 @@
                 ]
             }
         },
+        "绮良良": {
+            "id": "6594",
+            "nums": 1,
+            "images": {
+                "safe": [
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp"
+                ]
+            }
+        },
         "芙宁娜": {
             "id": "500291",
             "nums": 146,
@@ -2968,9 +2980,48 @@
                 ]
             }
         },
+        "夏洛蒂": {
+            "id": "500292",
+            "nums": 29,
+            "images": {
+                "safe": [
+                    "safe-gs-夏洛蒂-1.webp",
+                    "safe-gs-夏洛蒂-10.webp",
+                    "safe-gs-夏洛蒂-11.webp",
+                    "safe-gs-夏洛蒂-15.webp",
+                    "safe-gs-夏洛蒂-16.webp",
+                    "safe-gs-夏洛蒂-17.webp",
+                    "safe-gs-夏洛蒂-2.webp",
+                    "safe-gs-夏洛蒂-20.webp",
+                    "safe-gs-夏洛蒂-23.webp",
+                    "safe-gs-夏洛蒂-24.webp",
+                    "safe-gs-夏洛蒂-25.webp",
+                    "safe-gs-夏洛蒂-26.webp",
+                    "safe-gs-夏洛蒂-27.webp",
+                    "safe-gs-夏洛蒂-28.webp",
+                    "safe-gs-夏洛蒂-29.webp",
+                    "safe-gs-夏洛蒂-3.webp",
+                    "safe-gs-夏洛蒂-4.webp",
+                    "safe-gs-夏洛蒂-5.webp",
+                    "safe-gs-夏洛蒂-6.webp",
+                    "safe-gs-夏洛蒂-7.webp",
+                    "safe-gs-夏洛蒂-8.webp",
+                    "safe-gs-夏洛蒂-9.webp",
+                    "safe-gs-荧_夏洛蒂-1.webp",
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp"
+                ],
+                "sese": [
+                    "sese-gs-夏洛蒂-1.webp",
+                    "sese-gs-夏洛蒂-2.webp",
+                    "sese-gs-夏洛蒂-3.webp",
+                    "sese-gs-夏洛蒂-4.webp",
+                    "sese-gs-夏洛蒂-5.webp"
+                ]
+            }
+        },
         "派蒙": {
             "id": "c0_1",
-            "nums": 37,
+            "nums": 38,
             "images": {
                 "safe": [
                     "safe-gs-可莉_琴_芭芭拉_刻晴_甘雨_神里绫华_派蒙-1.webp",
@@ -3007,6 +3058,7 @@
                     "safe-gs-荧_空_派蒙-1.webp",
                     "safe-gs-荧_空_派蒙-2.webp",
                     "safe-gs-荧_空_派蒙-3.webp",
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp",
                     "safe-gs-荧_纳西妲_派蒙-1.webp",
                     "safe-gs-达达利亚_荧_空_派蒙-1.webp",
                     "safe-gs-达达利亚_辛焱_派蒙-1.webp"
