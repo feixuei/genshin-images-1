@@ -118,13 +118,13 @@
                     "safe-gs-可莉_七七_迪奥娜-1.webp",
                     "safe-gs-可莉_七七_迪奥娜_烟绯-1.webp",
                     "safe-gs-可莉_宵宫-1.webp",
+                    "safe-gs-可莉_宵宫-2.webp",
                     "safe-gs-可莉_宵宫-3.webp",
                     "safe-gs-可莉_宵宫-4.webp",
                     "safe-gs-可莉_宵宫-5.webp",
                     "safe-gs-可莉_宵宫-6.webp",
                     "safe-gs-可莉_宵宫-7.webp",
                     "safe-gs-可莉_宵宫-8.webp",
-                    "safe-gs-可莉_宵宫-9.webp",
                     "safe-gs-可莉_琴_芭芭拉_刻晴_甘雨_神里绫华_派蒙-1.webp",
                     "safe-gs-可莉_诺艾尔-1.webp",
                     "safe-gs-可莉_阿贝多-1.webp",
@@ -697,7 +697,9 @@
                     "safe-gs-莫娜-16.webp",
                     "safe-gs-莫娜-17.webp",
                     "safe-gs-莫娜-18.webp",
+                    "safe-gs-莫娜-19.webp",
                     "safe-gs-莫娜-2.webp",
+                    "safe-gs-莫娜-20.webp",
                     "safe-gs-莫娜-21.webp",
                     "safe-gs-莫娜-22.webp",
                     "safe-gs-莫娜-23.webp",
@@ -708,8 +710,6 @@
                     "safe-gs-莫娜-28.webp",
                     "safe-gs-莫娜-29.webp",
                     "safe-gs-莫娜-3.webp",
-                    "safe-gs-莫娜-30.webp",
-                    "safe-gs-莫娜-31.webp",
                     "safe-gs-莫娜-4.webp",
                     "safe-gs-莫娜-5.webp",
                     "safe-gs-莫娜-6.webp",
@@ -934,10 +934,10 @@
                     "safe-gs-钟离-20.webp",
                     "safe-gs-钟离-21.webp",
                     "safe-gs-钟离-22.webp",
-                    "safe-gs-钟离-23.webp",
-                    "safe-gs-钟离-24.webp",
                     "safe-gs-钟离-3.webp",
                     "safe-gs-钟离-4.webp",
+                    "safe-gs-钟离-5.webp",
+                    "safe-gs-钟离-6.webp",
                     "safe-gs-钟离-7.webp",
                     "safe-gs-钟离-8.webp",
                     "safe-gs-钟离-9.webp",
@@ -1239,6 +1239,7 @@
                     "safe-gs-胡桃-19.webp",
                     "safe-gs-胡桃-2.webp",
                     "safe-gs-胡桃-20.webp",
+                    "safe-gs-胡桃-21.webp",
                     "safe-gs-胡桃-22.webp",
                     "safe-gs-胡桃-23.webp",
                     "safe-gs-胡桃-24.webp",
@@ -1293,7 +1294,6 @@
                     "safe-gs-胡桃-69.webp",
                     "safe-gs-胡桃-7.webp",
                     "safe-gs-胡桃-70.webp",
-                    "safe-gs-胡桃-71.webp",
                     "safe-gs-胡桃-8.webp",
                     "safe-gs-胡桃-9.webp",
                     "safe-gs-胡桃_云堇-1.webp",
@@ -1554,13 +1554,13 @@
             "images": {
                 "safe": [
                     "safe-gs-可莉_宵宫-1.webp",
+                    "safe-gs-可莉_宵宫-2.webp",
                     "safe-gs-可莉_宵宫-3.webp",
                     "safe-gs-可莉_宵宫-4.webp",
                     "safe-gs-可莉_宵宫-5.webp",
                     "safe-gs-可莉_宵宫-6.webp",
                     "safe-gs-可莉_宵宫-7.webp",
                     "safe-gs-可莉_宵宫-8.webp",
-                    "safe-gs-可莉_宵宫-9.webp",
                     "safe-gs-可莉_阿贝多_宵宫-1.webp",
                     "safe-gs-宵宫-1.webp",
                     "safe-gs-宵宫-10.webp",
@@ -1912,10 +1912,10 @@
                     "safe-gs-雷电将军_八重神子-1.webp",
                     "safe-gs-雷电将军_八重神子-2.webp",
                     "safe-gs-雷电将军_八重神子-3.webp",
+                    "safe-gs-雷电将军_八重神子-4.webp",
                     "safe-gs-雷电将军_八重神子-5.webp",
                     "safe-gs-雷电将军_八重神子-6.webp",
-                    "safe-gs-雷电将军_八重神子-7.webp",
-                    "safe-gs-雷电将军_八重神子-8.webp"
+                    "safe-gs-雷电将军_八重神子-7.webp"
                 ],
                 "sese": [
                     "sese-gs-珊瑚宫心海_雷电将军_八重神子-1.webp",
@@ -2176,10 +2176,10 @@
                     "safe-gs-雷电将军_八重神子-1.webp",
                     "safe-gs-雷电将军_八重神子-2.webp",
                     "safe-gs-雷电将军_八重神子-3.webp",
+                    "safe-gs-雷电将军_八重神子-4.webp",
                     "safe-gs-雷电将军_八重神子-5.webp",
                     "safe-gs-雷电将军_八重神子-6.webp",
-                    "safe-gs-雷电将军_八重神子-7.webp",
-                    "safe-gs-雷电将军_八重神子-8.webp"
+                    "safe-gs-雷电将军_八重神子-7.webp"
                 ],
                 "sese": [
                     "sese-gs-八重神子-1.webp",
@@ -2588,6 +2588,7 @@
                     "safe-gs-妮露-21.webp",
                     "safe-gs-妮露-22.webp",
                     "safe-gs-妮露-23.webp",
+                    "safe-gs-妮露-24.webp",
                     "safe-gs-妮露-25.webp",
                     "safe-gs-妮露-26.webp",
                     "safe-gs-妮露-27.webp",
@@ -2606,7 +2607,6 @@
                     "safe-gs-妮露-39.webp",
                     "safe-gs-妮露-4.webp",
                     "safe-gs-妮露-40.webp",
-                    "safe-gs-妮露-41.webp",
                     "safe-gs-妮露-5.webp",
                     "safe-gs-妮露-6.webp",
                     "safe-gs-妮露-7.webp",
@@ -2820,10 +2820,10 @@
                     "safe-gs-派蒙-12.webp",
                     "safe-gs-派蒙-13.webp",
                     "safe-gs-派蒙-14.webp",
+                    "safe-gs-派蒙-15.webp",
                     "safe-gs-派蒙-16.webp",
                     "safe-gs-派蒙-17.webp",
                     "safe-gs-派蒙-18.webp",
-                    "safe-gs-派蒙-19.webp",
                     "safe-gs-派蒙-2.webp",
                     "safe-gs-派蒙-3.webp",
                     "safe-gs-派蒙-4.webp",
@@ -2910,11 +2910,11 @@
             "images": {
                 "safe": [
                     "safe-gs-应达-1.webp",
+                    "safe-gs-应达-2.webp",
                     "safe-gs-应达-3.webp",
                     "safe-gs-应达-4.webp",
                     "safe-gs-应达-5.webp",
-                    "safe-gs-应达-6.webp",
-                    "safe-gs-应达-7.webp"
+                    "safe-gs-应达-6.webp"
                 ]
             }
         },
@@ -2946,9 +2946,9 @@
                     "safe-gs-阿蕾奇诺-2.webp",
                     "safe-gs-阿蕾奇诺-3.webp",
                     "safe-gs-阿蕾奇诺-4.webp",
+                    "safe-gs-阿蕾奇诺-5.webp",
                     "safe-gs-阿蕾奇诺-6.webp",
-                    "safe-gs-阿蕾奇诺-7.webp",
-                    "safe-gs-阿蕾奇诺-8.webp"
+                    "safe-gs-阿蕾奇诺-7.webp"
                 ],
                 "sese": [
                     "sese-gs-阿蕾奇诺-1.webp",
@@ -3017,8 +3017,8 @@
             "nums": 2,
             "images": {
                 "safe": [
-                    "safe-gs-皮耶罗-2.webp",
-                    "safe-gs-皮耶罗-3.webp"
+                    "safe-gs-皮耶罗-1.webp",
+                    "safe-gs-皮耶罗-2.webp"
                 ]
             }
         },
